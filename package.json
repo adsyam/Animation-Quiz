@@ -1,0 +1,15 @@
+{
+  "name": "animation-quiz",
+  "version": "1.0.0",
+  "description": "Your goal is to recreate the animation direction video using HTML/CSS/JS with the images you have extracted. Make sure that your output’s animations and timings match the animation direction video.",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.50.0",
+    "eslint-plugin-react": "^7.33.2"
+  }
+}
