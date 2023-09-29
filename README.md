@@ -1,3 +1,5 @@
+Live Link: https://animation-quiz.vercel.app/
+
 Your goal is to recreate the animation direction video using HTML/CSS/JS with the images you have extracted. Make sure that your output’s animations and timings match the animation direction video.
 
     Animation Direction Video – Make sure your output animates as follows:
