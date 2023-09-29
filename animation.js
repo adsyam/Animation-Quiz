@@ -306,7 +306,7 @@ document.addEventListener( 'DOMContentLoaded', () => {
         </button>`
 
     reloader()
-    setupReloadButtonListener()
+    newReloader()
   }
 
   reloadButton.addEventListener( 'click', () => {
@@ -314,7 +314,7 @@ document.addEventListener( 'DOMContentLoaded', () => {
     addContent()
   } )
 
-  function setupReloadButtonListener () {
+  function newReloader () {
     const reloadButton = document.getElementById( 'reload-button' )
     reloadButton.addEventListener( 'click', () => {
       clearContent()
